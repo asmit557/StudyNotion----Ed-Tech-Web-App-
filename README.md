@@ -76,7 +76,7 @@
 
 | Landing Page                                                                | Login Page                                                               | Profile Page                                                                 |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![landing](https://drive.google.com/file/d/1mDoh5hS85VFy-I2x75uRdIXIXoIe8tlU/view?usp=sharing) | ![Login](https://drive.google.com/file/d/1_QWGKo5sObhKkwexLxFKPjsgJPwWpXY1/view?usp=sharing) | ![Profile](https://drive.google.com/file/d/1gKhAuZkzJpNyBs-pxFbAFV_Xbc0oYAbH/view?usp=sharing) |
+| ![landing](https://drive.google.com/uc?export=view&id=1mDoh5hS85VFy-I2x75uRdIXIXoIe8tlU) | ![Login](https://drive.google.com/uc?export=view&id=1_QWGKo5sObhKkwexLxFKPjsgJPwWpXY1) | ![Profile](https://drive.google.com/uc?export=view&id=1gKhAuZkzJpNyBs-pxFbAFV_Xbc0oYAbH) |
 
 ---
 
