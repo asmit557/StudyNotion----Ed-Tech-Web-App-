@@ -74,9 +74,9 @@
 
 ## 📸 Screenshots
 
-| Landing Page                                                                | Course Page                                                               | Admin Dashboard                                                                 |
+| Landing Page                                                                | Login Page                                                               | Profile Page                                                                 |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![landing](https://github.com/your-username/studynotion/assets/landing.png) | ![course](https://github.com/your-username/studynotion/assets/course.png) | ![dashboard](https://github.com/your-username/studynotion/assets/dashboard.png) |
+| ![landing](https://drive.google.com/file/d/1mDoh5hS85VFy-I2x75uRdIXIXoIe8tlU/view?usp=sharing) | ![Login](https://drive.google.com/file/d/1_QWGKo5sObhKkwexLxFKPjsgJPwWpXY1/view?usp=sharing) | ![Profile](https://drive.google.com/file/d/1gKhAuZkzJpNyBs-pxFbAFV_Xbc0oYAbH/view?usp=sharing) |
 
 ---
 
