@@ -1,6 +1,6 @@
 # 🎓 StudyNotion – Learn, Grow, Succeed 🚀
 
-![StudyNotion Banner](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-/public/logo.png)
+![StudyNotion Banner](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-/blob/main/public/logo.png)
 
 > A full-stack Ed-Tech platform that enables students to enroll in and learn courses, while empowering educators to create and manage content. Built with **MERN stack**, integrated with **Razorpay**, **JWT Auth**, and powered by **Cloudinary** for media delivery.
 
@@ -163,5 +163,5 @@ Thanks to all the open-source packages and developers that make tools like this 
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/asmit557)
+Made with ❤️ by [Asmit](https://github.com/asmit557)
 
