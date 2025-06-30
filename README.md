@@ -1,6 +1,6 @@
 # 🎓 StudyNotion – Learn, Grow, Succeed 🚀
 
-![StudyNotion Banner](https://github.com/your-username/studynotion/assets/banner.png)
+![StudyNotion Banner](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-/public/logo.png)
 
 > A full-stack Ed-Tech platform that enables students to enroll in and learn courses, while empowering educators to create and manage content. Built with **MERN stack**, integrated with **Razorpay**, **JWT Auth**, and powered by **Cloudinary** for media delivery.
 
@@ -76,7 +76,7 @@
 
 | Landing Page                                                                | Course Page                                                               | Admin Dashboard                                                                 |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![landing](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-/edit/main/README.md) | ![course](https://github.com/your-username/studynotion/assets/course.png) | ![dashboard](https://github.com/your-username/studynotion/assets/dashboard.png) |
+| ![landing](https://github.com/your-username/studynotion/assets/landing.png) | ![course](https://github.com/your-username/studynotion/assets/course.png) | ![dashboard](https://github.com/your-username/studynotion/assets/dashboard.png) |
 
 ---
 
@@ -159,9 +159,9 @@ Thanks to all the open-source packages and developers that make tools like this 
 
 ## 🌟 Star us on GitHub if you like it!
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/your-username/studynotion?style=social)](https://github.com/your-username/studynotion)
+[![GitHub Repo stars](https://img.shields.io/github/stars/asmit557/StudyNotion----Ed-Tech-Web-App-?style=social)](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-)
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Your Name](https://github.com/asmit557)
 
