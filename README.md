@@ -86,7 +86,7 @@
 
 ```bash
 git clone https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-.git
-cd studynotion
+cd StudyNotion----Ed-Tech-Web-App-
 ```
 
 ### 📁 Set Up Backend
