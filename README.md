@@ -76,7 +76,7 @@
 
 | Landing Page                                                                | Login Page                                                               | Profile Page                                                                 |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![landing](https://drive.google.com/uc?export=view&id=1mDoh5hS85VFy-I2x75uRdIXIXoIe8tlU) | ![Login](https://drive.google.com/uc?export=view&id=1_QWGKo5sObhKkwexLxFKPjsgJPwWpXY1) | ![Profile](https://drive.google.com/uc?export=view&id=1gKhAuZkzJpNyBs-pxFbAFV_Xbc0oYAbH) |
+| ![landing](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-/blob/main/public/Screenshot%202025-06-30%20095251.png) | ![Login](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-/blob/main/public/Screenshot%202025-06-30%20095237.png) | ![Profile](https://github.com/asmit557/StudyNotion----Ed-Tech-Web-App-/blob/main/public/Screenshot%202025-06-30%20095311.png) |
 
 ---
 
